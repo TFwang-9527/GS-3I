@@ -1,0 +1,31 @@
+.cmp-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.cmp-container .top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* 初始宽度设置为50% */
+    height: 100%;
+    overflow: hidden;
+}
+
+.cmp-container .bottom {
+    width: 100%;
+    height: auto;
+}
+
+.cmp-slider {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background-color: #333;
+    cursor: ew-resize;
+    z-index: 10;
+    left: 50%; /* 初始位置在中间 */
+}
