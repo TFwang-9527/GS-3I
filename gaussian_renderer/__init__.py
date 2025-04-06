@@ -173,7 +173,7 @@ def render(viewpoint_camera, pc : GaussianModel, pipe, bg_color : torch.Tensor, 
     return_dict.update({"gamma_high": gamma_high})
 
     if return_pretrain_normal:
-        normal_path = (viewpoint_camera.image_path).replace('/images/', '/normals_4/')
+        normal_path = (viewpoint_camera.image_path).replace('/images/', '/normals/')
         from PIL import Image
         from torchvision import transforms
         normal_image = Image.open(normal_path)
