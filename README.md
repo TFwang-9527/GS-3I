@@ -3,6 +3,12 @@
 ### [Project Page](https://tfwang-9527.github.io/GS-3I/) | [arXiv](https://arxiv.org/abs/2503.12335)
 ![overflow](https://github.com/user-attachments/assets/6320dc3d-f9a8-4258-aeeb-06f3a4a90f27)
 
+
+## Data
+Dark in the Gaussian dataset can be downloaded from [DK-Gaussian](https://pan.baidu.com/s/1xmZqYEJ5ZMkdldPS9_MgiQ?pwd=jf48) .
+
+The Modified DTU dataset can be downloaded from [Modified DTU](https://drive.google.com/drive/folders/1AGYQzrvNnr1Lfa_RY5tzqDSL61uFTZK8?usp=sharing) .
+
 ## Installation
 
 The repository contains submodules, thus please check it out with 
