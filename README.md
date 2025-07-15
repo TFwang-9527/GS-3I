@@ -1,7 +1,8 @@
 # GS-I³：: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images
 [Tengfei Wang](https://github.com/TFwang-9527), Hongmao Hou, Zhaoning Zhang, Yiwei Xu, Zongqian Zhan and Xin Wang*.
 ### [Project Page](https://tfwang-9527.github.io/GS-3I/) | [arXiv](https://arxiv.org/abs/2503.12335)
-<img width="1246" height="701" alt="方法2_v2" src="https://github.com/user-attachments/assets/187cb824-b8a3-4984-94b7-2163459ba623" />
+<img width="1959" height="623" alt="overflow" src="https://github.com/user-attachments/assets/3e7fa572-006a-44ee-b84f-bbb815d71af0" />
+
 
 
 
